@@ -1,0 +1,29 @@
+# Ignore compiled binaries, object files, and executables
+*.o
+*.out
+*.exe
+
+# Ignore build and distribution directories
+/build/
+/dist/
+
+# Ignore logs and temp files
+/logs/
+/temp/
+
+# Ignore environment-specific files
+.env
+
+# Ignore user-specific files
+user_config.txt
+
+# Ignore generated documentation files
+/docs/
+
+# Ignore 3D models and textures (assuming they are stored in assets/)
+/assets/models/
+/assets/textures/
+
+# Ignore user-specific IDE settings
+.idea/
+.vscode/
