@@ -1,6 +1,6 @@
 # 3D Modeling Software
 
-![Project Logo](https://github.com/codingbotlab/3D_Modeling_Software/blob/61d693dc006756d49a854155fa6c68983aca0290/logo.png)
+![Project Logo](https://justmemes.co.in/wp-content/uploads/2023/11/cropped-cropped-Untitled_design__7_-removebg-preview.png)
 
 ## Overview
 
