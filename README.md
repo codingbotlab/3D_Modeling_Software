@@ -1,6 +1,6 @@
 # 3D Modeling Software
 
-![Project Logo](logo.png)
+![Project Logo]([logo.png](https://github.dev/codingbotlab/3D_Modeling_Software/blob/5da3b6f79b452eacece868a968be5f385f59773a/logo.png))
 
 ## Overview
 
